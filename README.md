@@ -1,5 +1,5 @@
 # nex-protocols
-- Nex Protocols for Wii U & 3DS Consoles.
+- NEX Protocols for Wii U & 3DS Consoles.
 
 # Installation
 - Install [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/downloads/).
